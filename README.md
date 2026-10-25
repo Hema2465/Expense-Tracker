@@ -10,4 +10,4 @@ A responsive, feature-rich web application built for the Level 2 Hackathon - Fun
 * **Pro Features:** Integrated Dark Mode and one-click CSV data export.
 
 **Technologies Used:**
-* HTML5, CSS3 (Custom styling with CSS Variables), Vanilla JavaScript.
+* HTML5, CSS3 (Custom styling with CSS Variables),JavaScript.
